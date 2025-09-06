@@ -26,6 +26,12 @@ Required Components to Develop the Solution:
    IoT Gateway / Home Gateway
 
 
+Result:
+The final simulated environment demonstrates the following key outcomes:
+Successful Network Configuration: A wireless local area network was established using a Home Gateway, which successfully connected to all IoT devices (lamp, fan) and the end-user device (smartphone).
+Remote Accessibility: The system allows for remote access to the IoT device controls through a web-based interface. The user can log in to the Home Gateway from a smartphone connected to the same network.
+Real-Time Control: The lamp and fan can be controlled in real-time. Toggling the controls on the smartphone's web browser results in an immediate visual state change in the simulated devices (the lamp lights up, and the fan's blades spin).
 
+In conclusion, the system functions exactly as intended and meets all the objectives outlined in the problem statement. It serves as a successful proof-of-concept for a simple, scalable smart home automation network, effectively demonstrating the principles of the Internet of Things (IoT).
 
 
